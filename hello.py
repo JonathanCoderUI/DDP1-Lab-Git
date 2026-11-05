@@ -1,4 +1,4 @@
 nama = input("Siapa namamu? ")
-print(f"{nama}")
 npm = input("Apa nomor NPM mu? ")
-print(f"{npm}")
+
+print(f"Selamat datang {nama} di Fasilkom UI, Nomor NPM anda adalah {npm}")
